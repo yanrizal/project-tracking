@@ -1,0 +1,14 @@
+.login{
+	width:400px;
+	margin: auto;
+	margin-top: 80px;
+}
+.login input{
+	padding: 20px;	
+}
+.login img{
+	width: 100px;
+	margin: auto;
+	margin-bottom: 20px;
+	display: block;
+}
